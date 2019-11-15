@@ -1,0 +1,4 @@
+name: SystemSecurity
+main: com.blaxout1213.SystemSecurity.SystemSecurity
+version: 0
+depend: [WorldGuard]
